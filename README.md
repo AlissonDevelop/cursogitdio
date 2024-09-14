@@ -1,1 +1,5 @@
- Gerenciando\n Conhecendo\n Explorando os repositórios do GitHub
+# Explorando
+
+## Gerenciando
+
+### 👀Conhecendo os Repositórios do GitHub🔎
